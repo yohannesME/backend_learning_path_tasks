@@ -1,0 +1,15 @@
+C:\Users\Yohannes M\Documents\C#\backend_learning_path_tasks\task_3_palindrome_check\bin\Debug\net7.0\task_3_palindrome_check.exe
+C:\Users\Yohannes M\Documents\C#\backend_learning_path_tasks\task_3_palindrome_check\bin\Debug\net7.0\task_3_palindrome_check.deps.json
+C:\Users\Yohannes M\Documents\C#\backend_learning_path_tasks\task_3_palindrome_check\bin\Debug\net7.0\task_3_palindrome_check.runtimeconfig.json
+C:\Users\Yohannes M\Documents\C#\backend_learning_path_tasks\task_3_palindrome_check\bin\Debug\net7.0\task_3_palindrome_check.dll
+C:\Users\Yohannes M\Documents\C#\backend_learning_path_tasks\task_3_palindrome_check\bin\Debug\net7.0\task_3_palindrome_check.pdb
+C:\Users\Yohannes M\Documents\C#\backend_learning_path_tasks\task_3_palindrome_check\obj\Debug\net7.0\task_3_palindrome_check.csproj.AssemblyReference.cache
+C:\Users\Yohannes M\Documents\C#\backend_learning_path_tasks\task_3_palindrome_check\obj\Debug\net7.0\task_3_palindrome_check.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yohannes M\Documents\C#\backend_learning_path_tasks\task_3_palindrome_check\obj\Debug\net7.0\task_3_palindrome_check.AssemblyInfoInputs.cache
+C:\Users\Yohannes M\Documents\C#\backend_learning_path_tasks\task_3_palindrome_check\obj\Debug\net7.0\task_3_palindrome_check.AssemblyInfo.cs
+C:\Users\Yohannes M\Documents\C#\backend_learning_path_tasks\task_3_palindrome_check\obj\Debug\net7.0\task_3_palindrome_check.csproj.CoreCompileInputs.cache
+C:\Users\Yohannes M\Documents\C#\backend_learning_path_tasks\task_3_palindrome_check\obj\Debug\net7.0\task_3_palindrome_check.dll
+C:\Users\Yohannes M\Documents\C#\backend_learning_path_tasks\task_3_palindrome_check\obj\Debug\net7.0\refint\task_3_palindrome_check.dll
+C:\Users\Yohannes M\Documents\C#\backend_learning_path_tasks\task_3_palindrome_check\obj\Debug\net7.0\task_3_palindrome_check.pdb
+C:\Users\Yohannes M\Documents\C#\backend_learning_path_tasks\task_3_palindrome_check\obj\Debug\net7.0\task_3_palindrome_check.genruntimeconfig.cache
+C:\Users\Yohannes M\Documents\C#\backend_learning_path_tasks\task_3_palindrome_check\obj\Debug\net7.0\ref\task_3_palindrome_check.dll
