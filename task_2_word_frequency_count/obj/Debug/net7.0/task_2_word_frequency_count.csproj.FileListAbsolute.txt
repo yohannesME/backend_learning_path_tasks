@@ -1,0 +1,15 @@
+C:\Users\Yohannes M\Documents\C#\backend_learning_path_tasks\task_2_word_frequency_count\bin\Debug\net7.0\task_2_word_frequency_count.exe
+C:\Users\Yohannes M\Documents\C#\backend_learning_path_tasks\task_2_word_frequency_count\bin\Debug\net7.0\task_2_word_frequency_count.deps.json
+C:\Users\Yohannes M\Documents\C#\backend_learning_path_tasks\task_2_word_frequency_count\bin\Debug\net7.0\task_2_word_frequency_count.runtimeconfig.json
+C:\Users\Yohannes M\Documents\C#\backend_learning_path_tasks\task_2_word_frequency_count\bin\Debug\net7.0\task_2_word_frequency_count.dll
+C:\Users\Yohannes M\Documents\C#\backend_learning_path_tasks\task_2_word_frequency_count\bin\Debug\net7.0\task_2_word_frequency_count.pdb
+C:\Users\Yohannes M\Documents\C#\backend_learning_path_tasks\task_2_word_frequency_count\obj\Debug\net7.0\task_2_word_frequency_count.csproj.AssemblyReference.cache
+C:\Users\Yohannes M\Documents\C#\backend_learning_path_tasks\task_2_word_frequency_count\obj\Debug\net7.0\task_2_word_frequency_count.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yohannes M\Documents\C#\backend_learning_path_tasks\task_2_word_frequency_count\obj\Debug\net7.0\task_2_word_frequency_count.AssemblyInfoInputs.cache
+C:\Users\Yohannes M\Documents\C#\backend_learning_path_tasks\task_2_word_frequency_count\obj\Debug\net7.0\task_2_word_frequency_count.AssemblyInfo.cs
+C:\Users\Yohannes M\Documents\C#\backend_learning_path_tasks\task_2_word_frequency_count\obj\Debug\net7.0\task_2_word_frequency_count.csproj.CoreCompileInputs.cache
+C:\Users\Yohannes M\Documents\C#\backend_learning_path_tasks\task_2_word_frequency_count\obj\Debug\net7.0\task_2_word_frequency_count.dll
+C:\Users\Yohannes M\Documents\C#\backend_learning_path_tasks\task_2_word_frequency_count\obj\Debug\net7.0\refint\task_2_word_frequency_count.dll
+C:\Users\Yohannes M\Documents\C#\backend_learning_path_tasks\task_2_word_frequency_count\obj\Debug\net7.0\task_2_word_frequency_count.pdb
+C:\Users\Yohannes M\Documents\C#\backend_learning_path_tasks\task_2_word_frequency_count\obj\Debug\net7.0\task_2_word_frequency_count.genruntimeconfig.cache
+C:\Users\Yohannes M\Documents\C#\backend_learning_path_tasks\task_2_word_frequency_count\obj\Debug\net7.0\ref\task_2_word_frequency_count.dll
