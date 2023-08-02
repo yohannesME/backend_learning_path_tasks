@@ -45,8 +45,8 @@ public class Rectangle : Shape{
     }
 }
 public class Triangle : Shape{
-    public double Base;
-    public double Height;
+    private double Base;
+    private double Height;
 
     public Triangle(string name, double Base, double Height){
         Name = name;
