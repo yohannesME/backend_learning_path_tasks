@@ -1,0 +1,15 @@
+C:\Users\Yohannes M\Documents\C#\backend_learning_path_tasks\Day_2\task_2_library_catalog\obj\Debug\net6.0\task_2_library_catalog.csproj.AssemblyReference.cache
+C:\Users\Yohannes M\Documents\C#\backend_learning_path_tasks\Day_2\task_2_library_catalog\obj\Debug\net6.0\task_2_library_catalog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yohannes M\Documents\C#\backend_learning_path_tasks\Day_2\task_2_library_catalog\obj\Debug\net6.0\task_2_library_catalog.AssemblyInfoInputs.cache
+C:\Users\Yohannes M\Documents\C#\backend_learning_path_tasks\Day_2\task_2_library_catalog\obj\Debug\net6.0\task_2_library_catalog.AssemblyInfo.cs
+C:\Users\Yohannes M\Documents\C#\backend_learning_path_tasks\Day_2\task_2_library_catalog\obj\Debug\net6.0\task_2_library_catalog.csproj.CoreCompileInputs.cache
+C:\Users\Yohannes M\Documents\C#\backend_learning_path_tasks\Day_2\task_2_library_catalog\bin\Debug\net6.0\task_2_library_catalog.exe
+C:\Users\Yohannes M\Documents\C#\backend_learning_path_tasks\Day_2\task_2_library_catalog\bin\Debug\net6.0\task_2_library_catalog.deps.json
+C:\Users\Yohannes M\Documents\C#\backend_learning_path_tasks\Day_2\task_2_library_catalog\bin\Debug\net6.0\task_2_library_catalog.runtimeconfig.json
+C:\Users\Yohannes M\Documents\C#\backend_learning_path_tasks\Day_2\task_2_library_catalog\bin\Debug\net6.0\task_2_library_catalog.dll
+C:\Users\Yohannes M\Documents\C#\backend_learning_path_tasks\Day_2\task_2_library_catalog\bin\Debug\net6.0\task_2_library_catalog.pdb
+C:\Users\Yohannes M\Documents\C#\backend_learning_path_tasks\Day_2\task_2_library_catalog\obj\Debug\net6.0\task_2_library_catalog.dll
+C:\Users\Yohannes M\Documents\C#\backend_learning_path_tasks\Day_2\task_2_library_catalog\obj\Debug\net6.0\refint\task_2_library_catalog.dll
+C:\Users\Yohannes M\Documents\C#\backend_learning_path_tasks\Day_2\task_2_library_catalog\obj\Debug\net6.0\task_2_library_catalog.pdb
+C:\Users\Yohannes M\Documents\C#\backend_learning_path_tasks\Day_2\task_2_library_catalog\obj\Debug\net6.0\task_2_library_catalog.genruntimeconfig.cache
+C:\Users\Yohannes M\Documents\C#\backend_learning_path_tasks\Day_2\task_2_library_catalog\obj\Debug\net6.0\ref\task_2_library_catalog.dll
