@@ -31,4 +31,3 @@ foreach (var item in freqCount)
 {
     Console.WriteLine($"{item.Key}: {item.Value}");
 }
-
