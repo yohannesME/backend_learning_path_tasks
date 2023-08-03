@@ -67,7 +67,7 @@ namespace SimpleTaskManager
         }
 
 
-        public void updateTask(Task task)
+        public void updateTask(string Name, string Description, Category category)
         {
             foreach (Task t in tasks)
             {
@@ -164,7 +164,8 @@ namespace Application
                 Console.WriteLine("2. List Tasks");
                 Console.WriteLine("3. Delete Task");
                 Console.WriteLine("4. Complete Task");
-                Console.WriteLine("5. Exit");
+                Console.WriteLine("5. Update Task - Description, Category");
+                Console.WriteLine("6. Exit");
 
                 string userInput = Console.ReadLine();
                 switch (userInput)
@@ -210,6 +211,14 @@ namespace Application
                         taskManager.completeTask(completeTaskName);
                         break;
                     case "5":
+                        Console.WriteLine("Enter Task Name");
+                        string updateTaskName = Console.ReadLine();
+                        Console.WriteLine("Enter Task Description");
+                        string updateTaskDescription = Console.ReadLine();
+                        Console.WriteLine("Choose Category:\n1. Personal\n,2. Work\n,3. Errand");
+                        string updateTaskCategory = Console.ReadLine();
+                        taskManager.updateTask(updateTaskName, updateTaskDescription, (Category)int.Parse(updateTaskCategory));
+                    case "6":
                         quit = true;
                         break;
 
