@@ -1,0 +1,15 @@
+C:\Users\Yohannes M\Documents\C#\backend_learning_path_tasks\Day_3\task_1_task_manager\obj\Debug\net6.0\task_1_task_manager.csproj.AssemblyReference.cache
+C:\Users\Yohannes M\Documents\C#\backend_learning_path_tasks\Day_3\task_1_task_manager\obj\Debug\net6.0\task_1_task_manager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yohannes M\Documents\C#\backend_learning_path_tasks\Day_3\task_1_task_manager\obj\Debug\net6.0\task_1_task_manager.AssemblyInfoInputs.cache
+C:\Users\Yohannes M\Documents\C#\backend_learning_path_tasks\Day_3\task_1_task_manager\obj\Debug\net6.0\task_1_task_manager.AssemblyInfo.cs
+C:\Users\Yohannes M\Documents\C#\backend_learning_path_tasks\Day_3\task_1_task_manager\obj\Debug\net6.0\task_1_task_manager.csproj.CoreCompileInputs.cache
+C:\Users\Yohannes M\Documents\C#\backend_learning_path_tasks\Day_3\task_1_task_manager\bin\Debug\net6.0\task_1_task_manager.exe
+C:\Users\Yohannes M\Documents\C#\backend_learning_path_tasks\Day_3\task_1_task_manager\bin\Debug\net6.0\task_1_task_manager.deps.json
+C:\Users\Yohannes M\Documents\C#\backend_learning_path_tasks\Day_3\task_1_task_manager\bin\Debug\net6.0\task_1_task_manager.runtimeconfig.json
+C:\Users\Yohannes M\Documents\C#\backend_learning_path_tasks\Day_3\task_1_task_manager\bin\Debug\net6.0\task_1_task_manager.dll
+C:\Users\Yohannes M\Documents\C#\backend_learning_path_tasks\Day_3\task_1_task_manager\bin\Debug\net6.0\task_1_task_manager.pdb
+C:\Users\Yohannes M\Documents\C#\backend_learning_path_tasks\Day_3\task_1_task_manager\obj\Debug\net6.0\task_1_task_manager.dll
+C:\Users\Yohannes M\Documents\C#\backend_learning_path_tasks\Day_3\task_1_task_manager\obj\Debug\net6.0\refint\task_1_task_manager.dll
+C:\Users\Yohannes M\Documents\C#\backend_learning_path_tasks\Day_3\task_1_task_manager\obj\Debug\net6.0\task_1_task_manager.pdb
+C:\Users\Yohannes M\Documents\C#\backend_learning_path_tasks\Day_3\task_1_task_manager\obj\Debug\net6.0\task_1_task_manager.genruntimeconfig.cache
+C:\Users\Yohannes M\Documents\C#\backend_learning_path_tasks\Day_3\task_1_task_manager\obj\Debug\net6.0\ref\task_1_task_manager.dll
