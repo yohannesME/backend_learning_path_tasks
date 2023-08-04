@@ -1,0 +1,15 @@
+C:\Users\Yohannes M\Documents\C#\backend_learning_path_tasks\Day_4\task_1_student_management_system\obj\Debug\net7.0\task_1_student_management_system.csproj.AssemblyReference.cache
+C:\Users\Yohannes M\Documents\C#\backend_learning_path_tasks\Day_4\task_1_student_management_system\obj\Debug\net7.0\task_1_student_management_system.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yohannes M\Documents\C#\backend_learning_path_tasks\Day_4\task_1_student_management_system\obj\Debug\net7.0\task_1_student_management_system.AssemblyInfoInputs.cache
+C:\Users\Yohannes M\Documents\C#\backend_learning_path_tasks\Day_4\task_1_student_management_system\obj\Debug\net7.0\task_1_student_management_system.AssemblyInfo.cs
+C:\Users\Yohannes M\Documents\C#\backend_learning_path_tasks\Day_4\task_1_student_management_system\obj\Debug\net7.0\task_1_student_management_system.csproj.CoreCompileInputs.cache
+C:\Users\Yohannes M\Documents\C#\backend_learning_path_tasks\Day_4\task_1_student_management_system\bin\Debug\net7.0\task_1_student_management_system.exe
+C:\Users\Yohannes M\Documents\C#\backend_learning_path_tasks\Day_4\task_1_student_management_system\bin\Debug\net7.0\task_1_student_management_system.deps.json
+C:\Users\Yohannes M\Documents\C#\backend_learning_path_tasks\Day_4\task_1_student_management_system\bin\Debug\net7.0\task_1_student_management_system.runtimeconfig.json
+C:\Users\Yohannes M\Documents\C#\backend_learning_path_tasks\Day_4\task_1_student_management_system\bin\Debug\net7.0\task_1_student_management_system.dll
+C:\Users\Yohannes M\Documents\C#\backend_learning_path_tasks\Day_4\task_1_student_management_system\bin\Debug\net7.0\task_1_student_management_system.pdb
+C:\Users\Yohannes M\Documents\C#\backend_learning_path_tasks\Day_4\task_1_student_management_system\obj\Debug\net7.0\task_1_student_management_system.dll
+C:\Users\Yohannes M\Documents\C#\backend_learning_path_tasks\Day_4\task_1_student_management_system\obj\Debug\net7.0\refint\task_1_student_management_system.dll
+C:\Users\Yohannes M\Documents\C#\backend_learning_path_tasks\Day_4\task_1_student_management_system\obj\Debug\net7.0\task_1_student_management_system.pdb
+C:\Users\Yohannes M\Documents\C#\backend_learning_path_tasks\Day_4\task_1_student_management_system\obj\Debug\net7.0\task_1_student_management_system.genruntimeconfig.cache
+C:\Users\Yohannes M\Documents\C#\backend_learning_path_tasks\Day_4\task_1_student_management_system\obj\Debug\net7.0\ref\task_1_student_management_system.dll
