@@ -9,8 +9,8 @@ namespace Application
     {
         public string Name { get; set; }
         public int Age { get; set; }
-        // public readonly string RollNumber;
-        public string RollNumber { get; set; }
+        public readonly string RollNumber;
+        // public string RollNumber { get; set; }
         public float Grade { get; set; }
 
         public Student(string RollNumber)
