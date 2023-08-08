@@ -7,11 +7,11 @@ namespace Blog.Controllers;
 
 [ApiController]
 [Route("api/[controller]")]
-public class PostsController : ControllerBase
+public class PostController : ControllerBase
 {
     private static ApiDbContext _context;
     
-    public PostsController(ApiDbContext context)
+    public PostController(ApiDbContext context)
     {
         _context = context;
     }
@@ -35,7 +35,7 @@ public class PostsController : ControllerBase
     {
         await _context.Posts.AddAsync(post);
         await _context.SaveChangesAsync();
-        Console.WriteLine(post.Content);
+
         return CreatedAtAction("GetPost", post.Id, post);
     }
 
@@ -55,7 +55,7 @@ public class PostsController : ControllerBase
     [HttpPatch]
     public async Task<IActionResult> UpdatePost(int id, Post post)
     {
-        Post postToUpdate = await _context.Posts.FirstOrDefaultAsync(p => p.Id == id);
+        var postToUpdate = await _context.Posts.FirstOrDefaultAsync(p => p.Id == id);
         if (postToUpdate == null)
         {
             return NotFound();
