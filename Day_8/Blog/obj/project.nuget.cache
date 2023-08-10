@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "0QuuyNL84l/k1QaqmpnpCf+Y1/jpXQTmwtWVzQ3mWfdAdmKJcYMsF/1g3uwkOCylz0IismH1dxgErR9cSjdufg==",
+  "dgSpecHash": "cGr3AnCVGYof/seGgr3dDZLI7U1og5hkNTqZlmzstDGuDtnumCK+X1KBTz50HND2NwN+rXZ2Aa8TYLRZh7m7ag==",
   "success": true,
   "projectFilePath": "C:\\Users\\Yohannes M\\Documents\\C#\\backend_learning_path_tasks\\Day_8\\Blog\\Blog.csproj",
   "expectedPackageFiles": [
@@ -11,6 +11,7 @@
     "C:\\Users\\Yohannes M\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.9\\microsoft.entityframeworkcore.abstractions.7.0.9.nupkg.sha512",
     "C:\\Users\\Yohannes M\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\7.0.9\\microsoft.entityframeworkcore.analyzers.7.0.9.nupkg.sha512",
     "C:\\Users\\Yohannes M\\.nuget\\packages\\microsoft.entityframeworkcore.design\\7.0.9\\microsoft.entityframeworkcore.design.7.0.9.nupkg.sha512",
+    "C:\\Users\\Yohannes M\\.nuget\\packages\\microsoft.entityframeworkcore.inmemory\\7.0.9\\microsoft.entityframeworkcore.inmemory.7.0.9.nupkg.sha512",
     "C:\\Users\\Yohannes M\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\7.0.9\\microsoft.entityframeworkcore.relational.7.0.9.nupkg.sha512",
     "C:\\Users\\Yohannes M\\.nuget\\packages\\microsoft.entityframeworkcore.relational.design\\1.1.0\\microsoft.entityframeworkcore.relational.design.1.1.0.nupkg.sha512",
     "C:\\Users\\Yohannes M\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\7.0.9\\microsoft.entityframeworkcore.tools.7.0.9.nupkg.sha512",
@@ -86,7 +87,14 @@
     "C:\\Users\\Yohannes M\\.nuget\\packages\\system.threading.tasks.extensions\\4.3.0\\system.threading.tasks.extensions.4.3.0.nupkg.sha512",
     "C:\\Users\\Yohannes M\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Users\\Yohannes M\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
-    "C:\\Users\\Yohannes M\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512"
+    "C:\\Users\\Yohannes M\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
+    "C:\\Users\\Yohannes M\\.nuget\\packages\\xunit\\2.5.0\\xunit.2.5.0.nupkg.sha512",
+    "C:\\Users\\Yohannes M\\.nuget\\packages\\xunit.abstractions\\2.0.3\\xunit.abstractions.2.0.3.nupkg.sha512",
+    "C:\\Users\\Yohannes M\\.nuget\\packages\\xunit.analyzers\\1.2.0\\xunit.analyzers.1.2.0.nupkg.sha512",
+    "C:\\Users\\Yohannes M\\.nuget\\packages\\xunit.assert\\2.5.0\\xunit.assert.2.5.0.nupkg.sha512",
+    "C:\\Users\\Yohannes M\\.nuget\\packages\\xunit.core\\2.5.0\\xunit.core.2.5.0.nupkg.sha512",
+    "C:\\Users\\Yohannes M\\.nuget\\packages\\xunit.extensibility.core\\2.5.0\\xunit.extensibility.core.2.5.0.nupkg.sha512",
+    "C:\\Users\\Yohannes M\\.nuget\\packages\\xunit.extensibility.execution\\2.5.0\\xunit.extensibility.execution.2.5.0.nupkg.sha512"
   ],
   "logs": []
 }

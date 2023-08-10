@@ -27,6 +27,10 @@ public class PostController : ControllerBase
     public async Task<IActionResult> GetPost(int id)
     {
         var post = await _context.Posts.FirstOrDefaultAsync(p => p.Id == id);
+        if (post == null)
+        {
+            return NoContent();
+        }
         return Ok(post);
     }
     

@@ -17,10 +17,12 @@ public class ApiDbContext : DbContext
         base.OnModelCreating(modelBuilder);
     
     
-        modelBuilder.Entity<Post>(entity =>
+        modelBuilder.Entity<Comment>(entity =>
         {
             // 1 - Many
-            entity.HasMany(p => p.Comments);
+            entity.HasOne(c => c.Post)
+                .WithMany(p => p.Comments)
+                .HasForeignKey(c => c.PostId);
         });
     
     }

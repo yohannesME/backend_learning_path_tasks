@@ -45,3 +45,8 @@ C:\Users\Yohannes M\Documents\C#\backend_learning_path_tasks\Day_8\Blog\obj\Debu
 C:\Users\Yohannes M\Documents\C#\backend_learning_path_tasks\Day_8\Blog\obj\Debug\net7.0\Blog.pdb
 C:\Users\Yohannes M\Documents\C#\backend_learning_path_tasks\Day_8\Blog\obj\Debug\net7.0\Blog.genruntimeconfig.cache
 C:\Users\Yohannes M\Documents\C#\backend_learning_path_tasks\Day_8\Blog\obj\Debug\net7.0\ref\Blog.dll
+C:\Users\Yohannes M\Documents\C#\backend_learning_path_tasks\Day_8\Blog\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\Yohannes M\Documents\C#\backend_learning_path_tasks\Day_8\Blog\bin\Debug\net7.0\xunit.abstractions.dll
+C:\Users\Yohannes M\Documents\C#\backend_learning_path_tasks\Day_8\Blog\bin\Debug\net7.0\xunit.assert.dll
+C:\Users\Yohannes M\Documents\C#\backend_learning_path_tasks\Day_8\Blog\bin\Debug\net7.0\xunit.core.dll
+C:\Users\Yohannes M\Documents\C#\backend_learning_path_tasks\Day_8\Blog\bin\Debug\net7.0\xunit.execution.dotnet.dll
