@@ -36,10 +36,14 @@ public class CommentController : ControllerBase
         try
         {
             var comment = await _context.Comments.FirstOrDefaultAsync(c => c.Id == id);
+            if ( comment == null)
+            {
+                return NoContent();
+            }
             return Ok(comment);
         }
         catch (Exception e)
-        {
+        {                                                                                                           
             return StatusCode(500, "Internal server error");
         }
     }

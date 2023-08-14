@@ -3171,11 +3171,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Yohannes M\\Documents\\C#\\backend_learning_path_tasks\\Day_8\\Blog\\Test\\Test.csproj",
+      "projectUniqueName": "C:\\Users\\Yohannes M\\Documents\\C#\\backend_learning_path_tasks\\Day_8_and_9\\Blog\\Test\\Test.csproj",
       "projectName": "Test",
-      "projectPath": "C:\\Users\\Yohannes M\\Documents\\C#\\backend_learning_path_tasks\\Day_8\\Blog\\Test\\Test.csproj",
+      "projectPath": "C:\\Users\\Yohannes M\\Documents\\C#\\backend_learning_path_tasks\\Day_8_and_9\\Blog\\Test\\Test.csproj",
       "packagesPath": "C:\\Users\\Yohannes M\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Yohannes M\\Documents\\C#\\backend_learning_path_tasks\\Day_8\\Blog\\Test\\obj\\",
+      "outputPath": "C:\\Users\\Yohannes M\\Documents\\C#\\backend_learning_path_tasks\\Day_8_and_9\\Blog\\Test\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Yohannes M\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -3192,8 +3192,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\Yohannes M\\Documents\\C#\\backend_learning_path_tasks\\Day_8\\Blog\\Blog.csproj": {
-              "projectPath": "C:\\Users\\Yohannes M\\Documents\\C#\\backend_learning_path_tasks\\Day_8\\Blog\\Blog.csproj"
+            "C:\\Users\\Yohannes M\\Documents\\C#\\backend_learning_path_tasks\\Day_8_and_9\\Blog\\Blog.csproj": {
+              "projectPath": "C:\\Users\\Yohannes M\\Documents\\C#\\backend_learning_path_tasks\\Day_8_and_9\\Blog\\Blog.csproj"
             }
           }
         }

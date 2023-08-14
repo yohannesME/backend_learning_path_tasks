@@ -6068,11 +6068,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Yohannes M\\Documents\\C#\\backend_learning_path_tasks\\Day_8\\Blog\\Blog.csproj",
+      "projectUniqueName": "C:\\Users\\Yohannes M\\Documents\\C#\\backend_learning_path_tasks\\Day_8_and_9\\Blog\\Blog.csproj",
       "projectName": "Blog",
-      "projectPath": "C:\\Users\\Yohannes M\\Documents\\C#\\backend_learning_path_tasks\\Day_8\\Blog\\Blog.csproj",
+      "projectPath": "C:\\Users\\Yohannes M\\Documents\\C#\\backend_learning_path_tasks\\Day_8_and_9\\Blog\\Blog.csproj",
       "packagesPath": "C:\\Users\\Yohannes M\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Yohannes M\\Documents\\C#\\backend_learning_path_tasks\\Day_8\\Blog\\obj\\",
+      "outputPath": "C:\\Users\\Yohannes M\\Documents\\C#\\backend_learning_path_tasks\\Day_8_and_9\\Blog\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Yohannes M\\AppData\\Roaming\\NuGet\\NuGet.Config",
