@@ -1,0 +1,15 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=75d59324_002Db899_002D4b96_002D8e5b_002D02b571f220f7/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="GetPostDetailTest #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::DA8315CF-B68A-4F50-9FD1-A9D34D8DE432::net7.0::BlogCleanArch.Application.UnitTests.Posts.Queries.GetPostDetailRequestHandlerTests.GetPostDetailTest&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=76c8587a_002D545b_002D4611_002D8c16_002D5ab675c50f94/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="GetPostDetailTest" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;ProjectFile&gt;DA8315CF-B68A-4F50-9FD1-A9D34D8DE432/d:Posts/d:Queries/f:GetPostDetailRequestHandlerTests.cs&lt;/ProjectFile&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=b4a6809b_002Dac4e_002D4ab1_002D9ceb_002D198a8a16de89/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from GetPostDetailRequestHandlerTests.cs" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;ProjectFile&gt;DA8315CF-B68A-4F50-9FD1-A9D34D8DE432/d:Posts/d:Queries/f:GetPostDetailRequestHandlerTests.cs&lt;/ProjectFile&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=b4fa6ade_002Ddb06_002D4634_002Dadb3_002Dedb573a11951/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="All tests from GetPostDetailRequestHandlerTests.cs #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Project Location="C:\Users\Yohannes M\Documents\C#\backend_learning_path_tasks\BlogCleanArch" Presentation="&amp;lt;test&amp;gt;" /&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

@@ -218,6 +218,7 @@ namespace Application
                         Console.WriteLine("Choose Category:\n1. Personal\n,2. Work\n,3. Errand");
                         string updateTaskCategory = Console.ReadLine();
                         taskManager.updateTask(updateTaskName, updateTaskDescription, (Category)int.Parse(updateTaskCategory));
+                        break;
                     case "6":
                         quit = true;
                         break;

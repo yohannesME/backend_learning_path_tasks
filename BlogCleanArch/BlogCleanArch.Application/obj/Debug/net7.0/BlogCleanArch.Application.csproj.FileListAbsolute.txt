@@ -1,0 +1,30 @@
+C:\Users\yohan\OneDrive\Documents\NET\BlogCleanArch\BlogCleanArch.Application\bin\Debug\net7.0\BlogCleanArch.Application.deps.json
+C:\Users\yohan\OneDrive\Documents\NET\BlogCleanArch\BlogCleanArch.Application\bin\Debug\net7.0\BlogCleanArch.Application.dll
+C:\Users\yohan\OneDrive\Documents\NET\BlogCleanArch\BlogCleanArch.Application\bin\Debug\net7.0\BlogCleanArch.Application.pdb
+C:\Users\yohan\OneDrive\Documents\NET\BlogCleanArch\BlogCleanArch.Application\bin\Debug\net7.0\BlogCleanArch.Domain.dll
+C:\Users\yohan\OneDrive\Documents\NET\BlogCleanArch\BlogCleanArch.Application\bin\Debug\net7.0\BlogCleanArch.Domain.pdb
+C:\Users\yohan\OneDrive\Documents\NET\BlogCleanArch\BlogCleanArch.Application\obj\Debug\net7.0\BlogCleanArch.Application.csproj.AssemblyReference.cache
+C:\Users\yohan\OneDrive\Documents\NET\BlogCleanArch\BlogCleanArch.Application\obj\Debug\net7.0\BlogCleanArch.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yohan\OneDrive\Documents\NET\BlogCleanArch\BlogCleanArch.Application\obj\Debug\net7.0\BlogCleanArch.Application.AssemblyInfoInputs.cache
+C:\Users\yohan\OneDrive\Documents\NET\BlogCleanArch\BlogCleanArch.Application\obj\Debug\net7.0\BlogCleanArch.Application.AssemblyInfo.cs
+C:\Users\yohan\OneDrive\Documents\NET\BlogCleanArch\BlogCleanArch.Application\obj\Debug\net7.0\BlogCleanArch.Application.csproj.CoreCompileInputs.cache
+C:\Users\yohan\OneDrive\Documents\NET\BlogCleanArch\BlogCleanArch.Application\obj\Debug\net7.0\BlogCleanArch.Application.csproj.CopyComplete
+C:\Users\yohan\OneDrive\Documents\NET\BlogCleanArch\BlogCleanArch.Application\obj\Debug\net7.0\BlogCleanArch.Application.dll
+C:\Users\yohan\OneDrive\Documents\NET\BlogCleanArch\BlogCleanArch.Application\obj\Debug\net7.0\refint\BlogCleanArch.Application.dll
+C:\Users\yohan\OneDrive\Documents\NET\BlogCleanArch\BlogCleanArch.Application\obj\Debug\net7.0\BlogCleanArch.Application.pdb
+C:\Users\yohan\OneDrive\Documents\NET\BlogCleanArch\BlogCleanArch.Application\obj\Debug\net7.0\ref\BlogCleanArch.Application.dll
+C:\Users\Yohannes M\Documents\C#\backend_learning_path_tasks\BlogCleanArch\BlogCleanArch.Application\bin\Debug\net7.0\BlogCleanArch.Application.deps.json
+C:\Users\Yohannes M\Documents\C#\backend_learning_path_tasks\BlogCleanArch\BlogCleanArch.Application\bin\Debug\net7.0\BlogCleanArch.Application.dll
+C:\Users\Yohannes M\Documents\C#\backend_learning_path_tasks\BlogCleanArch\BlogCleanArch.Application\bin\Debug\net7.0\BlogCleanArch.Application.pdb
+C:\Users\Yohannes M\Documents\C#\backend_learning_path_tasks\BlogCleanArch\BlogCleanArch.Application\bin\Debug\net7.0\BlogCleanArch.Domain.dll
+C:\Users\Yohannes M\Documents\C#\backend_learning_path_tasks\BlogCleanArch\BlogCleanArch.Application\bin\Debug\net7.0\BlogCleanArch.Domain.pdb
+C:\Users\Yohannes M\Documents\C#\backend_learning_path_tasks\BlogCleanArch\BlogCleanArch.Application\obj\Debug\net7.0\BlogCleanArch.Application.csproj.AssemblyReference.cache
+C:\Users\Yohannes M\Documents\C#\backend_learning_path_tasks\BlogCleanArch\BlogCleanArch.Application\obj\Debug\net7.0\BlogCleanArch.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yohannes M\Documents\C#\backend_learning_path_tasks\BlogCleanArch\BlogCleanArch.Application\obj\Debug\net7.0\BlogCleanArch.Application.AssemblyInfoInputs.cache
+C:\Users\Yohannes M\Documents\C#\backend_learning_path_tasks\BlogCleanArch\BlogCleanArch.Application\obj\Debug\net7.0\BlogCleanArch.Application.AssemblyInfo.cs
+C:\Users\Yohannes M\Documents\C#\backend_learning_path_tasks\BlogCleanArch\BlogCleanArch.Application\obj\Debug\net7.0\BlogCleanArch.Application.csproj.CoreCompileInputs.cache
+C:\Users\Yohannes M\Documents\C#\backend_learning_path_tasks\BlogCleanArch\BlogCleanArch.Application\obj\Debug\net7.0\BlogCleanArch.Application.csproj.CopyComplete
+C:\Users\Yohannes M\Documents\C#\backend_learning_path_tasks\BlogCleanArch\BlogCleanArch.Application\obj\Debug\net7.0\BlogCleanArch.Application.dll
+C:\Users\Yohannes M\Documents\C#\backend_learning_path_tasks\BlogCleanArch\BlogCleanArch.Application\obj\Debug\net7.0\refint\BlogCleanArch.Application.dll
+C:\Users\Yohannes M\Documents\C#\backend_learning_path_tasks\BlogCleanArch\BlogCleanArch.Application\obj\Debug\net7.0\BlogCleanArch.Application.pdb
+C:\Users\Yohannes M\Documents\C#\backend_learning_path_tasks\BlogCleanArch\BlogCleanArch.Application\obj\Debug\net7.0\ref\BlogCleanArch.Application.dll

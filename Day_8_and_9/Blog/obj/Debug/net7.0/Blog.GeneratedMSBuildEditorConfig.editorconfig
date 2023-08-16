@@ -7,11 +7,37 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
+<<<<<<< HEAD
+<<<<<<<< HEAD:Day_8_and_9/Blog/obj/Debug/net7.0/Blog.GeneratedMSBuildEditorConfig.editorconfig
 build_property.RootNamespace = Blog
 build_property.RootNamespace = Blog
+=======
+build_property.RootNamespace = Blog
+build_property.RootNamespace = Blog
+<<<<<<< HEAD:Day_8/Blog/obj/Debug/net7.0/Blog.GeneratedMSBuildEditorConfig.editorconfig
+build_property.ProjectDir = c:\Users\yohan\OneDrive\Documents\NET\backend_learning_path_tasks\Day_8\Blog\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = c:\Users\yohan\OneDrive\Documents\NET\backend_learning_path_tasks\Day_8\Blog
+=======
+>>>>>>> 406f1e99595913bb8389aca1f0a9d276a2e20aa5
 build_property.ProjectDir = C:\Users\Yohannes M\Documents\C#\backend_learning_path_tasks\Day_8_and_9\Blog\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
 build_property.MSBuildProjectDirectory = C:\Users\Yohannes M\Documents\C#\backend_learning_path_tasks\Day_8_and_9\Blog
+<<<<<<< HEAD
+========
+build_property.RootNamespace = BlogCleanArch.Api
+build_property.RootNamespace = BlogCleanArch.Api
+build_property.ProjectDir = c:\Users\yohan\OneDrive\Documents\NET\backend_learning_path_tasks\BlogCleanArch\BlogCleanArch.Api\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = c:\Users\yohan\OneDrive\Documents\NET\backend_learning_path_tasks\BlogCleanArch\BlogCleanArch.Api
+>>>>>>>> 406f1e99595913bb8389aca1f0a9d276a2e20aa5:BlogCleanArch/BlogCleanArch.Api/obj/Debug/net7.0/BlogCleanArch.Api.GeneratedMSBuildEditorConfig.editorconfig
+=======
+>>>>>>> dcea2b97e2d1d6f95959dc98307c3d4983dddb02:Day_8_and_9/Blog/obj/Debug/net7.0/Blog.GeneratedMSBuildEditorConfig.editorconfig
+>>>>>>> 406f1e99595913bb8389aca1f0a9d276a2e20aa5
 build_property._RazorSourceGeneratorDebug = 

@@ -1,0 +1,120 @@
+C:\Users\yohan\OneDrive\Documents\NET\BlogCleanArch\BlogCleanArch.Api\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\yohan\OneDrive\Documents\NET\BlogCleanArch\BlogCleanArch.Api\bin\Debug\net7.0\appsettings.json
+C:\Users\yohan\OneDrive\Documents\NET\BlogCleanArch\BlogCleanArch.Api\bin\Debug\net7.0\BlogCleanArch.Api.exe
+C:\Users\yohan\OneDrive\Documents\NET\BlogCleanArch\BlogCleanArch.Api\bin\Debug\net7.0\BlogCleanArch.Api.deps.json
+C:\Users\yohan\OneDrive\Documents\NET\BlogCleanArch\BlogCleanArch.Api\bin\Debug\net7.0\BlogCleanArch.Api.runtimeconfig.json
+C:\Users\yohan\OneDrive\Documents\NET\BlogCleanArch\BlogCleanArch.Api\bin\Debug\net7.0\BlogCleanArch.Api.dll
+C:\Users\yohan\OneDrive\Documents\NET\BlogCleanArch\BlogCleanArch.Api\bin\Debug\net7.0\BlogCleanArch.Api.pdb
+C:\Users\yohan\OneDrive\Documents\NET\BlogCleanArch\BlogCleanArch.Api\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\yohan\OneDrive\Documents\NET\BlogCleanArch\BlogCleanArch.Api\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\yohan\OneDrive\Documents\NET\BlogCleanArch\BlogCleanArch.Api\bin\Debug\net7.0\FluentValidation.dll
+C:\Users\yohan\OneDrive\Documents\NET\BlogCleanArch\BlogCleanArch.Api\bin\Debug\net7.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\yohan\OneDrive\Documents\NET\BlogCleanArch\BlogCleanArch.Api\bin\Debug\net7.0\Humanizer.dll
+C:\Users\yohan\OneDrive\Documents\NET\BlogCleanArch\BlogCleanArch.Api\bin\Debug\net7.0\MediatR.dll
+C:\Users\yohan\OneDrive\Documents\NET\BlogCleanArch\BlogCleanArch.Api\bin\Debug\net7.0\MediatR.Contracts.dll
+C:\Users\yohan\OneDrive\Documents\NET\BlogCleanArch\BlogCleanArch.Api\bin\Debug\net7.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\yohan\OneDrive\Documents\NET\BlogCleanArch\BlogCleanArch.Api\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\yohan\OneDrive\Documents\NET\BlogCleanArch\BlogCleanArch.Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\yohan\OneDrive\Documents\NET\BlogCleanArch\BlogCleanArch.Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\yohan\OneDrive\Documents\NET\BlogCleanArch\BlogCleanArch.Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\yohan\OneDrive\Documents\NET\BlogCleanArch\BlogCleanArch.Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\yohan\OneDrive\Documents\NET\BlogCleanArch\BlogCleanArch.Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\yohan\OneDrive\Documents\NET\BlogCleanArch\BlogCleanArch.Api\bin\Debug\net7.0\dotnet-ef.dll
+C:\Users\yohan\OneDrive\Documents\NET\BlogCleanArch\BlogCleanArch.Api\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\yohan\OneDrive\Documents\NET\BlogCleanArch\BlogCleanArch.Api\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\yohan\OneDrive\Documents\NET\BlogCleanArch\BlogCleanArch.Api\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\yohan\OneDrive\Documents\NET\BlogCleanArch\BlogCleanArch.Api\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\yohan\OneDrive\Documents\NET\BlogCleanArch\BlogCleanArch.Api\bin\Debug\net7.0\Npgsql.dll
+C:\Users\yohan\OneDrive\Documents\NET\BlogCleanArch\BlogCleanArch.Api\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\yohan\OneDrive\Documents\NET\BlogCleanArch\BlogCleanArch.Api\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.Design.dll
+C:\Users\yohan\OneDrive\Documents\NET\BlogCleanArch\BlogCleanArch.Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\yohan\OneDrive\Documents\NET\BlogCleanArch\BlogCleanArch.Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\yohan\OneDrive\Documents\NET\BlogCleanArch\BlogCleanArch.Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\yohan\OneDrive\Documents\NET\BlogCleanArch\BlogCleanArch.Api\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\yohan\OneDrive\Documents\NET\BlogCleanArch\BlogCleanArch.Api\bin\Debug\net7.0\BlogCleanArch.Application.dll
+C:\Users\yohan\OneDrive\Documents\NET\BlogCleanArch\BlogCleanArch.Api\bin\Debug\net7.0\BlogCleanArch.Domain.dll
+C:\Users\yohan\OneDrive\Documents\NET\BlogCleanArch\BlogCleanArch.Api\bin\Debug\net7.0\BlogCleanArch.Persistence.dll
+C:\Users\yohan\OneDrive\Documents\NET\BlogCleanArch\BlogCleanArch.Api\bin\Debug\net7.0\BlogCleanArch.Application.pdb
+C:\Users\yohan\OneDrive\Documents\NET\BlogCleanArch\BlogCleanArch.Api\bin\Debug\net7.0\BlogCleanArch.Persistence.pdb
+C:\Users\yohan\OneDrive\Documents\NET\BlogCleanArch\BlogCleanArch.Api\bin\Debug\net7.0\BlogCleanArch.Domain.pdb
+C:\Users\yohan\OneDrive\Documents\NET\BlogCleanArch\BlogCleanArch.Api\obj\Debug\net7.0\BlogCleanArch.Api.csproj.AssemblyReference.cache
+C:\Users\yohan\OneDrive\Documents\NET\BlogCleanArch\BlogCleanArch.Api\obj\Debug\net7.0\BlogCleanArch.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yohan\OneDrive\Documents\NET\BlogCleanArch\BlogCleanArch.Api\obj\Debug\net7.0\BlogCleanArch.Api.AssemblyInfoInputs.cache
+C:\Users\yohan\OneDrive\Documents\NET\BlogCleanArch\BlogCleanArch.Api\obj\Debug\net7.0\BlogCleanArch.Api.AssemblyInfo.cs
+C:\Users\yohan\OneDrive\Documents\NET\BlogCleanArch\BlogCleanArch.Api\obj\Debug\net7.0\BlogCleanArch.Api.csproj.CoreCompileInputs.cache
+C:\Users\yohan\OneDrive\Documents\NET\BlogCleanArch\BlogCleanArch.Api\obj\Debug\net7.0\BlogCleanArch.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\yohan\OneDrive\Documents\NET\BlogCleanArch\BlogCleanArch.Api\obj\Debug\net7.0\BlogCleanArch.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\yohan\OneDrive\Documents\NET\BlogCleanArch\BlogCleanArch.Api\obj\Debug\net7.0\staticwebassets\msbuild.BlogCleanArch.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\yohan\OneDrive\Documents\NET\BlogCleanArch\BlogCleanArch.Api\obj\Debug\net7.0\staticwebassets\msbuild.build.BlogCleanArch.Api.props
+C:\Users\yohan\OneDrive\Documents\NET\BlogCleanArch\BlogCleanArch.Api\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.BlogCleanArch.Api.props
+C:\Users\yohan\OneDrive\Documents\NET\BlogCleanArch\BlogCleanArch.Api\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.BlogCleanArch.Api.props
+C:\Users\yohan\OneDrive\Documents\NET\BlogCleanArch\BlogCleanArch.Api\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\yohan\OneDrive\Documents\NET\BlogCleanArch\BlogCleanArch.Api\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\yohan\OneDrive\Documents\NET\BlogCleanArch\BlogCleanArch.Api\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\yohan\OneDrive\Documents\NET\BlogCleanArch\BlogCleanArch.Api\obj\Debug\net7.0\scopedcss\bundle\BlogCleanArch.Api.styles.css
+C:\Users\yohan\OneDrive\Documents\NET\BlogCleanArch\BlogCleanArch.Api\obj\Debug\net7.0\BlogCleanArch.Api.csproj.CopyComplete
+C:\Users\yohan\OneDrive\Documents\NET\BlogCleanArch\BlogCleanArch.Api\obj\Debug\net7.0\BlogCleanArch.Api.dll
+C:\Users\yohan\OneDrive\Documents\NET\BlogCleanArch\BlogCleanArch.Api\obj\Debug\net7.0\refint\BlogCleanArch.Api.dll
+C:\Users\yohan\OneDrive\Documents\NET\BlogCleanArch\BlogCleanArch.Api\obj\Debug\net7.0\BlogCleanArch.Api.pdb
+C:\Users\yohan\OneDrive\Documents\NET\BlogCleanArch\BlogCleanArch.Api\obj\Debug\net7.0\BlogCleanArch.Api.genruntimeconfig.cache
+C:\Users\yohan\OneDrive\Documents\NET\BlogCleanArch\BlogCleanArch.Api\obj\Debug\net7.0\ref\BlogCleanArch.Api.dll
+C:\Users\Yohannes M\Documents\C#\backend_learning_path_tasks\BlogCleanArch\BlogCleanArch.Api\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Yohannes M\Documents\C#\backend_learning_path_tasks\BlogCleanArch\BlogCleanArch.Api\bin\Debug\net7.0\appsettings.json
+C:\Users\Yohannes M\Documents\C#\backend_learning_path_tasks\BlogCleanArch\BlogCleanArch.Api\bin\Debug\net7.0\BlogCleanArch.Api.exe
+C:\Users\Yohannes M\Documents\C#\backend_learning_path_tasks\BlogCleanArch\BlogCleanArch.Api\bin\Debug\net7.0\BlogCleanArch.Api.deps.json
+C:\Users\Yohannes M\Documents\C#\backend_learning_path_tasks\BlogCleanArch\BlogCleanArch.Api\bin\Debug\net7.0\BlogCleanArch.Api.runtimeconfig.json
+C:\Users\Yohannes M\Documents\C#\backend_learning_path_tasks\BlogCleanArch\BlogCleanArch.Api\bin\Debug\net7.0\BlogCleanArch.Api.dll
+C:\Users\Yohannes M\Documents\C#\backend_learning_path_tasks\BlogCleanArch\BlogCleanArch.Api\bin\Debug\net7.0\BlogCleanArch.Api.pdb
+C:\Users\Yohannes M\Documents\C#\backend_learning_path_tasks\BlogCleanArch\BlogCleanArch.Api\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\Yohannes M\Documents\C#\backend_learning_path_tasks\BlogCleanArch\BlogCleanArch.Api\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Yohannes M\Documents\C#\backend_learning_path_tasks\BlogCleanArch\BlogCleanArch.Api\bin\Debug\net7.0\FluentValidation.dll
+C:\Users\Yohannes M\Documents\C#\backend_learning_path_tasks\BlogCleanArch\BlogCleanArch.Api\bin\Debug\net7.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\Yohannes M\Documents\C#\backend_learning_path_tasks\BlogCleanArch\BlogCleanArch.Api\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Yohannes M\Documents\C#\backend_learning_path_tasks\BlogCleanArch\BlogCleanArch.Api\bin\Debug\net7.0\MediatR.dll
+C:\Users\Yohannes M\Documents\C#\backend_learning_path_tasks\BlogCleanArch\BlogCleanArch.Api\bin\Debug\net7.0\MediatR.Contracts.dll
+C:\Users\Yohannes M\Documents\C#\backend_learning_path_tasks\BlogCleanArch\BlogCleanArch.Api\bin\Debug\net7.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Yohannes M\Documents\C#\backend_learning_path_tasks\BlogCleanArch\BlogCleanArch.Api\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Yohannes M\Documents\C#\backend_learning_path_tasks\BlogCleanArch\BlogCleanArch.Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Yohannes M\Documents\C#\backend_learning_path_tasks\BlogCleanArch\BlogCleanArch.Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Yohannes M\Documents\C#\backend_learning_path_tasks\BlogCleanArch\BlogCleanArch.Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Yohannes M\Documents\C#\backend_learning_path_tasks\BlogCleanArch\BlogCleanArch.Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Yohannes M\Documents\C#\backend_learning_path_tasks\BlogCleanArch\BlogCleanArch.Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\Yohannes M\Documents\C#\backend_learning_path_tasks\BlogCleanArch\BlogCleanArch.Api\bin\Debug\net7.0\dotnet-ef.dll
+C:\Users\Yohannes M\Documents\C#\backend_learning_path_tasks\BlogCleanArch\BlogCleanArch.Api\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Yohannes M\Documents\C#\backend_learning_path_tasks\BlogCleanArch\BlogCleanArch.Api\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Yohannes M\Documents\C#\backend_learning_path_tasks\BlogCleanArch\BlogCleanArch.Api\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Yohannes M\Documents\C#\backend_learning_path_tasks\BlogCleanArch\BlogCleanArch.Api\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Yohannes M\Documents\C#\backend_learning_path_tasks\BlogCleanArch\BlogCleanArch.Api\bin\Debug\net7.0\Npgsql.dll
+C:\Users\Yohannes M\Documents\C#\backend_learning_path_tasks\BlogCleanArch\BlogCleanArch.Api\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\Yohannes M\Documents\C#\backend_learning_path_tasks\BlogCleanArch\BlogCleanArch.Api\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.Design.dll
+C:\Users\Yohannes M\Documents\C#\backend_learning_path_tasks\BlogCleanArch\BlogCleanArch.Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Yohannes M\Documents\C#\backend_learning_path_tasks\BlogCleanArch\BlogCleanArch.Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Yohannes M\Documents\C#\backend_learning_path_tasks\BlogCleanArch\BlogCleanArch.Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Yohannes M\Documents\C#\backend_learning_path_tasks\BlogCleanArch\BlogCleanArch.Api\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Yohannes M\Documents\C#\backend_learning_path_tasks\BlogCleanArch\BlogCleanArch.Api\bin\Debug\net7.0\BlogCleanArch.Application.dll
+C:\Users\Yohannes M\Documents\C#\backend_learning_path_tasks\BlogCleanArch\BlogCleanArch.Api\bin\Debug\net7.0\BlogCleanArch.Domain.dll
+C:\Users\Yohannes M\Documents\C#\backend_learning_path_tasks\BlogCleanArch\BlogCleanArch.Api\bin\Debug\net7.0\BlogCleanArch.Persistence.dll
+C:\Users\Yohannes M\Documents\C#\backend_learning_path_tasks\BlogCleanArch\BlogCleanArch.Api\bin\Debug\net7.0\BlogCleanArch.Application.pdb
+C:\Users\Yohannes M\Documents\C#\backend_learning_path_tasks\BlogCleanArch\BlogCleanArch.Api\bin\Debug\net7.0\BlogCleanArch.Persistence.pdb
+C:\Users\Yohannes M\Documents\C#\backend_learning_path_tasks\BlogCleanArch\BlogCleanArch.Api\bin\Debug\net7.0\BlogCleanArch.Domain.pdb
+C:\Users\Yohannes M\Documents\C#\backend_learning_path_tasks\BlogCleanArch\BlogCleanArch.Api\obj\Debug\net7.0\BlogCleanArch.Api.csproj.AssemblyReference.cache
+C:\Users\Yohannes M\Documents\C#\backend_learning_path_tasks\BlogCleanArch\BlogCleanArch.Api\obj\Debug\net7.0\BlogCleanArch.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yohannes M\Documents\C#\backend_learning_path_tasks\BlogCleanArch\BlogCleanArch.Api\obj\Debug\net7.0\BlogCleanArch.Api.AssemblyInfoInputs.cache
+C:\Users\Yohannes M\Documents\C#\backend_learning_path_tasks\BlogCleanArch\BlogCleanArch.Api\obj\Debug\net7.0\BlogCleanArch.Api.AssemblyInfo.cs
+C:\Users\Yohannes M\Documents\C#\backend_learning_path_tasks\BlogCleanArch\BlogCleanArch.Api\obj\Debug\net7.0\BlogCleanArch.Api.csproj.CoreCompileInputs.cache
+C:\Users\Yohannes M\Documents\C#\backend_learning_path_tasks\BlogCleanArch\BlogCleanArch.Api\obj\Debug\net7.0\BlogCleanArch.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Yohannes M\Documents\C#\backend_learning_path_tasks\BlogCleanArch\BlogCleanArch.Api\obj\Debug\net7.0\BlogCleanArch.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Yohannes M\Documents\C#\backend_learning_path_tasks\BlogCleanArch\BlogCleanArch.Api\obj\Debug\net7.0\staticwebassets\msbuild.BlogCleanArch.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Yohannes M\Documents\C#\backend_learning_path_tasks\BlogCleanArch\BlogCleanArch.Api\obj\Debug\net7.0\staticwebassets\msbuild.build.BlogCleanArch.Api.props
+C:\Users\Yohannes M\Documents\C#\backend_learning_path_tasks\BlogCleanArch\BlogCleanArch.Api\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.BlogCleanArch.Api.props
+C:\Users\Yohannes M\Documents\C#\backend_learning_path_tasks\BlogCleanArch\BlogCleanArch.Api\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.BlogCleanArch.Api.props
+C:\Users\Yohannes M\Documents\C#\backend_learning_path_tasks\BlogCleanArch\BlogCleanArch.Api\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Yohannes M\Documents\C#\backend_learning_path_tasks\BlogCleanArch\BlogCleanArch.Api\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Yohannes M\Documents\C#\backend_learning_path_tasks\BlogCleanArch\BlogCleanArch.Api\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Yohannes M\Documents\C#\backend_learning_path_tasks\BlogCleanArch\BlogCleanArch.Api\obj\Debug\net7.0\scopedcss\bundle\BlogCleanArch.Api.styles.css
+C:\Users\Yohannes M\Documents\C#\backend_learning_path_tasks\BlogCleanArch\BlogCleanArch.Api\obj\Debug\net7.0\BlogCleanArch.Api.csproj.CopyComplete
+C:\Users\Yohannes M\Documents\C#\backend_learning_path_tasks\BlogCleanArch\BlogCleanArch.Api\obj\Debug\net7.0\BlogCleanArch.Api.dll
+C:\Users\Yohannes M\Documents\C#\backend_learning_path_tasks\BlogCleanArch\BlogCleanArch.Api\obj\Debug\net7.0\refint\BlogCleanArch.Api.dll
+C:\Users\Yohannes M\Documents\C#\backend_learning_path_tasks\BlogCleanArch\BlogCleanArch.Api\obj\Debug\net7.0\BlogCleanArch.Api.pdb
+C:\Users\Yohannes M\Documents\C#\backend_learning_path_tasks\BlogCleanArch\BlogCleanArch.Api\obj\Debug\net7.0\BlogCleanArch.Api.genruntimeconfig.cache
+C:\Users\Yohannes M\Documents\C#\backend_learning_path_tasks\BlogCleanArch\BlogCleanArch.Api\obj\Debug\net7.0\ref\BlogCleanArch.Api.dll

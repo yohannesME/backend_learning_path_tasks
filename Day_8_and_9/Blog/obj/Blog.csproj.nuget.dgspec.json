@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "C:\\Users\\Yohannes M\\Documents\\C#\\backend_learning_path_tasks\\Day_8_and_9\\Blog\\Blog.csproj": {}
   },
   "projects": {
@@ -12,16 +13,41 @@
         "projectPath": "C:\\Users\\Yohannes M\\Documents\\C#\\backend_learning_path_tasks\\Day_8_and_9\\Blog\\Blog.csproj",
         "packagesPath": "C:\\Users\\Yohannes M\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Yohannes M\\Documents\\C#\\backend_learning_path_tasks\\Day_8_and_9\\Blog\\obj\\",
+=======
+<<<<<<< HEAD:Day_8/Blog/obj/Blog.csproj.nuget.dgspec.json
+    "C:\\Users\\yohan\\OneDrive\\Documents\\backend_learning_path_tasks\\Day_8\\Blog\\Blog.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\yohan\\OneDrive\\Documents\\backend_learning_path_tasks\\Day_8\\Blog\\Blog.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\yohan\\OneDrive\\Documents\\backend_learning_path_tasks\\Day_8\\Blog\\Blog.csproj",
+        "projectName": "Blog",
+        "projectPath": "C:\\Users\\yohan\\OneDrive\\Documents\\backend_learning_path_tasks\\Day_8\\Blog\\Blog.csproj",
+        "packagesPath": "C:\\Users\\yohan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\yohan\\OneDrive\\Documents\\backend_learning_path_tasks\\Day_8\\Blog\\obj\\",
+=======
+    "C:\\Users\\Yohannes M\\Documents\\C#\\backend_learning_path_tasks\\Day_8_and_9\\Blog\\Blog.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Yohannes M\\Documents\\C#\\backend_learning_path_tasks\\Day_8_and_9\\Blog\\Blog.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Yohannes M\\Documents\\C#\\backend_learning_path_tasks\\Day_8_and_9\\Blog\\Blog.csproj",
+        "projectName": "Blog",
+        "projectPath": "C:\\Users\\Yohannes M\\Documents\\C#\\backend_learning_path_tasks\\Day_8_and_9\\Blog\\Blog.csproj",
+        "packagesPath": "C:\\Users\\Yohannes M\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Yohannes M\\Documents\\C#\\backend_learning_path_tasks\\Day_8_and_9\\Blog\\obj\\",
+>>>>>>> dcea2b97e2d1d6f95959dc98307c3d4983dddb02:Day_8_and_9/Blog/obj/Blog.csproj.nuget.dgspec.json
+>>>>>>> 406f1e99595913bb8389aca1f0a9d276a2e20aa5
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Yohannes M\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\yohan\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\dotnet\\sdk\\7.0.306\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
