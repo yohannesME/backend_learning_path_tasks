@@ -1,4 +1,18 @@
 ﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=0c9d7214_002D872a_002D4b9e_002Da7c3_002Dc3c60552514c/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="DeleteCommentTest" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Project Location="C:\Users\Yohannes M\Documents\C#\backend_learning_path_tasks\BlogCleanArch\BlogCleanArch.Application.UnitTests" Presentation="&amp;lt;test&amp;gt;\&amp;lt;BlogCleanArch.Application.UnitTests&amp;gt;" /&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=10954b78_002D4565_002D4b2e_002Db5da_002Dacbf2a434a90/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="CreateCommentTest" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Project Location="C:\Users\Yohannes M\Documents\C#\backend_learning_path_tasks\BlogCleanArch\BlogCleanArch.Application.UnitTests" Presentation="&amp;lt;test&amp;gt;\&amp;lt;BlogCleanArch.Application.UnitTests&amp;gt;" /&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=43ac4308_002Dd06f_002D4044_002D9d4b_002D40f97802ba2b/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from &amp;lt;test&amp;gt;\&amp;lt;BlogCleanArch.Application.UnitTests&amp;gt;" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Project Location="C:\Users\Yohannes M\Documents\C#\backend_learning_path_tasks\BlogCleanArch\BlogCleanArch.Application.UnitTests" Presentation="&amp;lt;test&amp;gt;\&amp;lt;BlogCleanArch.Application.UnitTests&amp;gt;" /&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=6fe5cf34_002Da1c5_002D4dbf_002Db935_002Dc69bd8302403/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="CreateCommentTest #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::DA8315CF-B68A-4F50-9FD1-A9D34D8DE432::net7.0::BlogCleanArch.Application.UnitTests.Comments.Commands.CreateCommentCommandHandlerTests.CreateCommentTest&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
 	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=75d59324_002Db899_002D4b96_002D8e5b_002D02b571f220f7/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="GetPostDetailTest #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
   &lt;TestAncestor&gt;&#xD;
     &lt;TestId&gt;xUnit::DA8315CF-B68A-4F50-9FD1-A9D34D8DE432::net7.0::BlogCleanArch.Application.UnitTests.Posts.Queries.GetPostDetailRequestHandlerTests.GetPostDetailTest&lt;/TestId&gt;&#xD;
@@ -7,9 +21,18 @@
 	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=76c8587a_002D545b_002D4611_002D8c16_002D5ab675c50f94/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="GetPostDetailTest" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
   &lt;ProjectFile&gt;DA8315CF-B68A-4F50-9FD1-A9D34D8DE432/d:Posts/d:Queries/f:GetPostDetailRequestHandlerTests.cs&lt;/ProjectFile&gt;&#xD;
 &lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=902f8688_002D953d_002D4b46_002Da22e_002D50023f4d9e65/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="CreateCommentTest #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Project Location="C:\Users\Yohannes M\Documents\C#\backend_learning_path_tasks\BlogCleanArch\BlogCleanArch.Application.UnitTests" Presentation="&amp;lt;test&amp;gt;\&amp;lt;BlogCleanArch.Application.UnitTests&amp;gt;" /&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
 	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=b4a6809b_002Dac4e_002D4ab1_002D9ceb_002D198a8a16de89/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from GetPostDetailRequestHandlerTests.cs" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
   &lt;ProjectFile&gt;DA8315CF-B68A-4F50-9FD1-A9D34D8DE432/d:Posts/d:Queries/f:GetPostDetailRequestHandlerTests.cs&lt;/ProjectFile&gt;&#xD;
 &lt;/SessionState&gt;</s:String>
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=b4fa6ade_002Ddb06_002D4634_002Dadb3_002Dedb573a11951/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="All tests from GetPostDetailRequestHandlerTests.cs #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=b4fa6ade_002Ddb06_002D4634_002Dadb3_002Dedb573a11951/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from GetPostDetailRequestHandlerTests.cs #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
   &lt;Project Location="C:\Users\Yohannes M\Documents\C#\backend_learning_path_tasks\BlogCleanArch" Presentation="&amp;lt;test&amp;gt;" /&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=c1db7e6f_002Df30a_002D42dd_002D97cf_002D5855737c5ad4/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="DeleteCommentTest #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::DA8315CF-B68A-4F50-9FD1-A9D34D8DE432::net7.0::BlogCleanArch.Application.UnitTests.Comments.Commands.DeleteCommentCommandHandlerTests.DeleteCommentTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::DA8315CF-B68A-4F50-9FD1-A9D34D8DE432::net7.0::BlogCleanArch.Application.UnitTests.Comments.Commands.CreateCommentCommandHandlerTests.CreateCommentTest&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

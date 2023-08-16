@@ -38,13 +38,35 @@ public class MockCommentRepository
         
         var mockCommentRepo = new Mock<ICommentRepository>();
         
+        // Get all the comments
         mockCommentRepo.Setup(r => r.GetAll()).ReturnsAsync(comments);
         
+        // Add a single comment
         mockCommentRepo.Setup(r => r.Add(It.IsAny<Comment>())).ReturnsAsync((Comment comment) =>
         {
             comments.Add(comment);
             return comment;
         });
+
+        // Get a comment with post id
+        mockCommentRepo.Setup(r => r.GetCommentsWithPostId(It.IsAny<int>())).ReturnsAsync((int id) =>
+        {
+            return comments.Where(c => c.PostId == id).ToList();
+        });
+        
+        // Get a comment with id
+        mockCommentRepo.Setup(r => r.Get(It.IsAny<int>())).ReturnsAsync((int id) =>
+        {
+            return comments.Find(c => c.Id == id);
+        });
+        
+        // Delete Implememtation for the DeleteCommentCommandHandler
+        mockCommentRepo.Setup(r => r.Delete(It.IsAny<Comment>())).Callback((Comment comment) =>
+        {
+            comments.Remove(comment);
+        });
+        
+      
         
         return mockCommentRepo;
     }

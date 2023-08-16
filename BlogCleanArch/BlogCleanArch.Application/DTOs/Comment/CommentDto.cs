@@ -10,5 +10,5 @@ public class CommentDto : BaseDto, ICommentDto
     public DateTime UpdatedAt { get; set; }
     public string Text { get; set; } = "";
     public int PostId { get; set; }
-    public PostDto Post { get; set; } = default!;
+
 }

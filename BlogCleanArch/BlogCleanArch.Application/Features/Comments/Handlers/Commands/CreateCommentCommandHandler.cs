@@ -35,9 +35,6 @@ public class CreateCommentCommandHandler : IRequestHandler<CreateCommentCommand,
         else
         {
             var comment = _mapper.Map<Comment>(request.CommentDto);
-            var post = await _unitOfWork.PostRepository.Get(comment.PostId);
-            // post.Comments.Add(comment);
-            // await _unitOfWork.PostRepository.Update(post);
             comment = await _unitOfWork.CommentRepository.Add(comment);
             
             response.Message = "Creation Successful";

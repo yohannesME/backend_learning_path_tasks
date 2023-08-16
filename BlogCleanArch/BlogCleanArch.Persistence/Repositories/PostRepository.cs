@@ -15,11 +15,22 @@ public class PostRepository : GenericRepository<Post> , IPostRepository
 
     public async Task<Post> GetPostWithComments(int id)
     {
-        return await _dbContext.Posts.Include(p => p.Comments).FirstOrDefaultAsync(p => p.Id == id);
+        var post =  await _dbContext.Posts.FindAsync(id);
+        
+        var comment = await _dbContext.Comments.Where(c => c.PostId == post.Id).ToListAsync();
+        post.Comments = comment;
+        
+        return post;
     }
 
     public async Task<List<Post>> GetPostsWithComments()
     {
-        return await _dbContext.Posts.Include(p => p.Comments).ToListAsync();
+        var posts =  await _dbContext.Posts.ToListAsync();
+        foreach (var post in posts)  
+        {
+            var comment = await _dbContext.Comments.Where(c => c.PostId == post.Id).ToListAsync();
+            post.Comments = comment;
+        }
+        return posts;
     }
 }
