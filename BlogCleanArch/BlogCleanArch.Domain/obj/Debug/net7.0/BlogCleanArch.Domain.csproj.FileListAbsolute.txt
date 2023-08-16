@@ -1,0 +1,12 @@
+C:\Users\yohan\OneDrive\Documents\NET\BlogCleanArch\BlogCleanArch.Domain\bin\Debug\net7.0\BlogCleanArch.Domain.deps.json
+C:\Users\yohan\OneDrive\Documents\NET\BlogCleanArch\BlogCleanArch.Domain\bin\Debug\net7.0\BlogCleanArch.Domain.dll
+C:\Users\yohan\OneDrive\Documents\NET\BlogCleanArch\BlogCleanArch.Domain\bin\Debug\net7.0\BlogCleanArch.Domain.pdb
+C:\Users\yohan\OneDrive\Documents\NET\BlogCleanArch\BlogCleanArch.Domain\obj\Debug\net7.0\BlogCleanArch.Domain.csproj.AssemblyReference.cache
+C:\Users\yohan\OneDrive\Documents\NET\BlogCleanArch\BlogCleanArch.Domain\obj\Debug\net7.0\BlogCleanArch.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yohan\OneDrive\Documents\NET\BlogCleanArch\BlogCleanArch.Domain\obj\Debug\net7.0\BlogCleanArch.Domain.AssemblyInfoInputs.cache
+C:\Users\yohan\OneDrive\Documents\NET\BlogCleanArch\BlogCleanArch.Domain\obj\Debug\net7.0\BlogCleanArch.Domain.AssemblyInfo.cs
+C:\Users\yohan\OneDrive\Documents\NET\BlogCleanArch\BlogCleanArch.Domain\obj\Debug\net7.0\BlogCleanArch.Domain.csproj.CoreCompileInputs.cache
+C:\Users\yohan\OneDrive\Documents\NET\BlogCleanArch\BlogCleanArch.Domain\obj\Debug\net7.0\BlogCleanArch.Domain.dll
+C:\Users\yohan\OneDrive\Documents\NET\BlogCleanArch\BlogCleanArch.Domain\obj\Debug\net7.0\refint\BlogCleanArch.Domain.dll
+C:\Users\yohan\OneDrive\Documents\NET\BlogCleanArch\BlogCleanArch.Domain\obj\Debug\net7.0\BlogCleanArch.Domain.pdb
+C:\Users\yohan\OneDrive\Documents\NET\BlogCleanArch\BlogCleanArch.Domain\obj\Debug\net7.0\ref\BlogCleanArch.Domain.dll

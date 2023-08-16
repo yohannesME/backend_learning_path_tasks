@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="EfCoreDialogsState">
+    <option name="keyValueStorage">
+      <map>
+        <entry key="Common:550e3e93-7cb0-4595-9de2-1165130989d1:dbContext" value="BlogCleanArch.Persistence.BlogDbContext" />
+        <entry key="Common:922b4b0e-aaaa-4a3f-8246-e3a39a299d80:dbContext" value="BlogCleanArch.Persistence.BlogDbContext" />
+        <entry key="Common:buildConfiguration" value="Debug" />
+        <entry key="Common:noBuild" value="false" />
+        <entry key="Common:outputFolder" value="Migrations" />
+        <entry key="Common:useDefaultConnection" value="true" />
+      </map>
+    </option>
+  </component>
+</project>

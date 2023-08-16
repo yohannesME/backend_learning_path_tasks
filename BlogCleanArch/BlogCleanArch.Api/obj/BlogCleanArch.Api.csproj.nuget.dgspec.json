@@ -1,0 +1,303 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\yohan\\OneDrive\\Documents\\NET\\BlogCleanArch\\BlogCleanArch.Api\\BlogCleanArch.Api.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\yohan\\OneDrive\\Documents\\NET\\BlogCleanArch\\BlogCleanArch.Api\\BlogCleanArch.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\yohan\\OneDrive\\Documents\\NET\\BlogCleanArch\\BlogCleanArch.Api\\BlogCleanArch.Api.csproj",
+        "projectName": "BlogCleanArch.Api",
+        "projectPath": "C:\\Users\\yohan\\OneDrive\\Documents\\NET\\BlogCleanArch\\BlogCleanArch.Api\\BlogCleanArch.Api.csproj",
+        "packagesPath": "C:\\Users\\yohan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\yohan\\OneDrive\\Documents\\NET\\BlogCleanArch\\BlogCleanArch.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\yohan\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files\\dotnet\\sdk\\7.0.306\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\yohan\\OneDrive\\Documents\\NET\\BlogCleanArch\\BlogCleanArch.Application\\BlogCleanArch.Application.csproj": {
+                "projectPath": "C:\\Users\\yohan\\OneDrive\\Documents\\NET\\BlogCleanArch\\BlogCleanArch.Application\\BlogCleanArch.Application.csproj"
+              },
+              "C:\\Users\\yohan\\OneDrive\\Documents\\NET\\BlogCleanArch\\BlogCleanArch.Persistence\\BlogCleanArch.Persistence.csproj": {
+                "projectPath": "C:\\Users\\yohan\\OneDrive\\Documents\\NET\\BlogCleanArch\\BlogCleanArch.Persistence\\BlogCleanArch.Persistence.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[11.0.0, )"
+            },
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[7.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.9, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\yohan\\OneDrive\\Documents\\NET\\BlogCleanArch\\BlogCleanArch.Application\\BlogCleanArch.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\yohan\\OneDrive\\Documents\\NET\\BlogCleanArch\\BlogCleanArch.Application\\BlogCleanArch.Application.csproj",
+        "projectName": "BlogCleanArch.Application",
+        "projectPath": "C:\\Users\\yohan\\OneDrive\\Documents\\NET\\BlogCleanArch\\BlogCleanArch.Application\\BlogCleanArch.Application.csproj",
+        "packagesPath": "C:\\Users\\yohan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\yohan\\OneDrive\\Documents\\NET\\BlogCleanArch\\BlogCleanArch.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\yohan\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\yohan\\OneDrive\\Documents\\NET\\BlogCleanArch\\BlogCleanArch.Domain\\BlogCleanArch.Domain.csproj": {
+                "projectPath": "C:\\Users\\yohan\\OneDrive\\Documents\\NET\\BlogCleanArch\\BlogCleanArch.Domain\\BlogCleanArch.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "FluentValidation.DependencyInjectionExtensions": {
+              "target": "Package",
+              "version": "[11.7.1, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[11.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\yohan\\OneDrive\\Documents\\NET\\BlogCleanArch\\BlogCleanArch.Domain\\BlogCleanArch.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\yohan\\OneDrive\\Documents\\NET\\BlogCleanArch\\BlogCleanArch.Domain\\BlogCleanArch.Domain.csproj",
+        "projectName": "BlogCleanArch.Domain",
+        "projectPath": "C:\\Users\\yohan\\OneDrive\\Documents\\NET\\BlogCleanArch\\BlogCleanArch.Domain\\BlogCleanArch.Domain.csproj",
+        "packagesPath": "C:\\Users\\yohan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\yohan\\OneDrive\\Documents\\NET\\BlogCleanArch\\BlogCleanArch.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\yohan\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\yohan\\OneDrive\\Documents\\NET\\BlogCleanArch\\BlogCleanArch.Persistence\\BlogCleanArch.Persistence.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\yohan\\OneDrive\\Documents\\NET\\BlogCleanArch\\BlogCleanArch.Persistence\\BlogCleanArch.Persistence.csproj",
+        "projectName": "BlogCleanArch.Persistence",
+        "projectPath": "C:\\Users\\yohan\\OneDrive\\Documents\\NET\\BlogCleanArch\\BlogCleanArch.Persistence\\BlogCleanArch.Persistence.csproj",
+        "packagesPath": "C:\\Users\\yohan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\yohan\\OneDrive\\Documents\\NET\\BlogCleanArch\\BlogCleanArch.Persistence\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\yohan\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\yohan\\OneDrive\\Documents\\NET\\BlogCleanArch\\BlogCleanArch.Application\\BlogCleanArch.Application.csproj": {
+                "projectPath": "C:\\Users\\yohan\\OneDrive\\Documents\\NET\\BlogCleanArch\\BlogCleanArch.Application\\BlogCleanArch.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools.DotNet": {
+              "target": "Package",
+              "version": "[2.0.3, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[7.0.4, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL.Design": {
+              "target": "Package",
+              "version": "[1.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
