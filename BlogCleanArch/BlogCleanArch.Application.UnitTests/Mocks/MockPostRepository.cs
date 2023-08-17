@@ -34,6 +34,16 @@ public class MockPostRepository
             return Posts.Find(p => p.Id == id);
         });
         
+        
+        // get post with details
+        mockPostRepo.Setup(r => r.GetPostWithComments(It.IsAny<int>())).ReturnsAsync((int id) =>
+        {
+            return Posts.Find(p => p.Id == id);
+        });
+        
+        // get all posts with details
+        mockPostRepo.Setup(r => r.GetPostsWithComments()).ReturnsAsync(Posts);
+
         mockPostRepo.Setup(r => r.Add(It.IsAny<Post>())).ReturnsAsync((Post post) =>
         {
             Posts.Add(post);
