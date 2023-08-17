@@ -36,3 +36,22 @@ C:\Users\Yohannes M\Documents\C#\backend_learning_path_tasks\BlogCleanArch\BlogC
 C:\Users\Yohannes M\Documents\C#\backend_learning_path_tasks\BlogCleanArch\BlogCleanArch.Persistence\obj\Debug\net7.0\BlogCleanArch.Persistence.pdb
 C:\Users\Yohannes M\Documents\C#\backend_learning_path_tasks\BlogCleanArch\BlogCleanArch.Persistence\obj\Debug\net7.0\BlogCleanArch.Persistence.genruntimeconfig.cache
 C:\Users\Yohannes M\Documents\C#\backend_learning_path_tasks\BlogCleanArch\BlogCleanArch.Persistence\obj\Debug\net7.0\ref\BlogCleanArch.Persistence.dll
+C:\Users\yohan\OneDrive\Documents\NET\backend_learning_path_tasks\backend_learning_path_tasks\BlogCleanArch\BlogCleanArch.Persistence\bin\Debug\net7.0\BlogCleanArch.Persistence.deps.json
+C:\Users\yohan\OneDrive\Documents\NET\backend_learning_path_tasks\backend_learning_path_tasks\BlogCleanArch\BlogCleanArch.Persistence\bin\Debug\net7.0\BlogCleanArch.Persistence.runtimeconfig.json
+C:\Users\yohan\OneDrive\Documents\NET\backend_learning_path_tasks\backend_learning_path_tasks\BlogCleanArch\BlogCleanArch.Persistence\bin\Debug\net7.0\BlogCleanArch.Persistence.dll
+C:\Users\yohan\OneDrive\Documents\NET\backend_learning_path_tasks\backend_learning_path_tasks\BlogCleanArch\BlogCleanArch.Persistence\bin\Debug\net7.0\BlogCleanArch.Persistence.pdb
+C:\Users\yohan\OneDrive\Documents\NET\backend_learning_path_tasks\backend_learning_path_tasks\BlogCleanArch\BlogCleanArch.Persistence\bin\Debug\net7.0\BlogCleanArch.Application.dll
+C:\Users\yohan\OneDrive\Documents\NET\backend_learning_path_tasks\backend_learning_path_tasks\BlogCleanArch\BlogCleanArch.Persistence\bin\Debug\net7.0\BlogCleanArch.Domain.dll
+C:\Users\yohan\OneDrive\Documents\NET\backend_learning_path_tasks\backend_learning_path_tasks\BlogCleanArch\BlogCleanArch.Persistence\bin\Debug\net7.0\BlogCleanArch.Application.pdb
+C:\Users\yohan\OneDrive\Documents\NET\backend_learning_path_tasks\backend_learning_path_tasks\BlogCleanArch\BlogCleanArch.Persistence\bin\Debug\net7.0\BlogCleanArch.Domain.pdb
+C:\Users\yohan\OneDrive\Documents\NET\backend_learning_path_tasks\backend_learning_path_tasks\BlogCleanArch\BlogCleanArch.Persistence\obj\Debug\net7.0\BlogCleanArch.Persistence.csproj.AssemblyReference.cache
+C:\Users\yohan\OneDrive\Documents\NET\backend_learning_path_tasks\backend_learning_path_tasks\BlogCleanArch\BlogCleanArch.Persistence\obj\Debug\net7.0\BlogCleanArch.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yohan\OneDrive\Documents\NET\backend_learning_path_tasks\backend_learning_path_tasks\BlogCleanArch\BlogCleanArch.Persistence\obj\Debug\net7.0\BlogCleanArch.Persistence.AssemblyInfoInputs.cache
+C:\Users\yohan\OneDrive\Documents\NET\backend_learning_path_tasks\backend_learning_path_tasks\BlogCleanArch\BlogCleanArch.Persistence\obj\Debug\net7.0\BlogCleanArch.Persistence.AssemblyInfo.cs
+C:\Users\yohan\OneDrive\Documents\NET\backend_learning_path_tasks\backend_learning_path_tasks\BlogCleanArch\BlogCleanArch.Persistence\obj\Debug\net7.0\BlogCleanArch.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\yohan\OneDrive\Documents\NET\backend_learning_path_tasks\backend_learning_path_tasks\BlogCleanArch\BlogCleanArch.Persistence\obj\Debug\net7.0\BlogCleanArch.Persistence.csproj.CopyComplete
+C:\Users\yohan\OneDrive\Documents\NET\backend_learning_path_tasks\backend_learning_path_tasks\BlogCleanArch\BlogCleanArch.Persistence\obj\Debug\net7.0\BlogCleanArch.Persistence.dll
+C:\Users\yohan\OneDrive\Documents\NET\backend_learning_path_tasks\backend_learning_path_tasks\BlogCleanArch\BlogCleanArch.Persistence\obj\Debug\net7.0\refint\BlogCleanArch.Persistence.dll
+C:\Users\yohan\OneDrive\Documents\NET\backend_learning_path_tasks\backend_learning_path_tasks\BlogCleanArch\BlogCleanArch.Persistence\obj\Debug\net7.0\BlogCleanArch.Persistence.pdb
+C:\Users\yohan\OneDrive\Documents\NET\backend_learning_path_tasks\backend_learning_path_tasks\BlogCleanArch\BlogCleanArch.Persistence\obj\Debug\net7.0\BlogCleanArch.Persistence.genruntimeconfig.cache
+C:\Users\yohan\OneDrive\Documents\NET\backend_learning_path_tasks\backend_learning_path_tasks\BlogCleanArch\BlogCleanArch.Persistence\obj\Debug\net7.0\ref\BlogCleanArch.Persistence.dll

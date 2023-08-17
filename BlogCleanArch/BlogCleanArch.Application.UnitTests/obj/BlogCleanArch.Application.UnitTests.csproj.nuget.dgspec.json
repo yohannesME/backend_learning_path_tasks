@@ -1,38 +1,36 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Yohannes M\\Documents\\C#\\backend_learning_path_tasks\\BlogCleanArch\\BlogCleanArch.Application.UnitTests\\BlogCleanArch.Application.UnitTests.csproj": {}
+    "C:\\Users\\yohan\\OneDrive\\Documents\\NET\\backend_learning_path_tasks\\backend_learning_path_tasks\\BlogCleanArch\\BlogCleanArch.Application.UnitTests\\BlogCleanArch.Application.UnitTests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Yohannes M\\Documents\\C#\\backend_learning_path_tasks\\BlogCleanArch\\BlogCleanArch.Application.UnitTests\\BlogCleanArch.Application.UnitTests.csproj": {
+    "C:\\Users\\yohan\\OneDrive\\Documents\\NET\\backend_learning_path_tasks\\backend_learning_path_tasks\\BlogCleanArch\\BlogCleanArch.Application.UnitTests\\BlogCleanArch.Application.UnitTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Yohannes M\\Documents\\C#\\backend_learning_path_tasks\\BlogCleanArch\\BlogCleanArch.Application.UnitTests\\BlogCleanArch.Application.UnitTests.csproj",
+        "projectUniqueName": "C:\\Users\\yohan\\OneDrive\\Documents\\NET\\backend_learning_path_tasks\\backend_learning_path_tasks\\BlogCleanArch\\BlogCleanArch.Application.UnitTests\\BlogCleanArch.Application.UnitTests.csproj",
         "projectName": "BlogCleanArch.Application.UnitTests",
-        "projectPath": "C:\\Users\\Yohannes M\\Documents\\C#\\backend_learning_path_tasks\\BlogCleanArch\\BlogCleanArch.Application.UnitTests\\BlogCleanArch.Application.UnitTests.csproj",
-        "packagesPath": "C:\\Users\\Yohannes M\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Yohannes M\\Documents\\C#\\backend_learning_path_tasks\\BlogCleanArch\\BlogCleanArch.Application.UnitTests\\obj\\",
+        "projectPath": "C:\\Users\\yohan\\OneDrive\\Documents\\NET\\backend_learning_path_tasks\\backend_learning_path_tasks\\BlogCleanArch\\BlogCleanArch.Application.UnitTests\\BlogCleanArch.Application.UnitTests.csproj",
+        "packagesPath": "C:\\Users\\yohan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\yohan\\OneDrive\\Documents\\NET\\backend_learning_path_tasks\\backend_learning_path_tasks\\BlogCleanArch\\BlogCleanArch.Application.UnitTests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Yohannes M\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\yohan\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\Yohannes M\\Documents\\C#\\backend_learning_path_tasks\\BlogCleanArch\\BlogCleanArch.Application\\BlogCleanArch.Application.csproj": {
-                "projectPath": "C:\\Users\\Yohannes M\\Documents\\C#\\backend_learning_path_tasks\\BlogCleanArch\\BlogCleanArch.Application\\BlogCleanArch.Application.csproj"
+              "C:\\Users\\yohan\\OneDrive\\Documents\\NET\\backend_learning_path_tasks\\backend_learning_path_tasks\\BlogCleanArch\\BlogCleanArch.Application\\BlogCleanArch.Application.csproj": {
+                "projectPath": "C:\\Users\\yohan\\OneDrive\\Documents\\NET\\backend_learning_path_tasks\\backend_learning_path_tasks\\BlogCleanArch\\BlogCleanArch.Application\\BlogCleanArch.Application.csproj"
               },
-              "C:\\Users\\Yohannes M\\Documents\\C#\\backend_learning_path_tasks\\BlogCleanArch\\BlogCleanArch.Domain\\BlogCleanArch.Domain.csproj": {
-                "projectPath": "C:\\Users\\Yohannes M\\Documents\\C#\\backend_learning_path_tasks\\BlogCleanArch\\BlogCleanArch.Domain\\BlogCleanArch.Domain.csproj"
+              "C:\\Users\\yohan\\OneDrive\\Documents\\NET\\backend_learning_path_tasks\\backend_learning_path_tasks\\BlogCleanArch\\BlogCleanArch.Domain\\BlogCleanArch.Domain.csproj": {
+                "projectPath": "C:\\Users\\yohan\\OneDrive\\Documents\\NET\\backend_learning_path_tasks\\backend_learning_path_tasks\\BlogCleanArch\\BlogCleanArch.Domain\\BlogCleanArch.Domain.csproj"
               }
             }
           }
@@ -96,32 +94,30 @@
         }
       }
     },
-    "C:\\Users\\Yohannes M\\Documents\\C#\\backend_learning_path_tasks\\BlogCleanArch\\BlogCleanArch.Application\\BlogCleanArch.Application.csproj": {
+    "C:\\Users\\yohan\\OneDrive\\Documents\\NET\\backend_learning_path_tasks\\backend_learning_path_tasks\\BlogCleanArch\\BlogCleanArch.Application\\BlogCleanArch.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Yohannes M\\Documents\\C#\\backend_learning_path_tasks\\BlogCleanArch\\BlogCleanArch.Application\\BlogCleanArch.Application.csproj",
+        "projectUniqueName": "C:\\Users\\yohan\\OneDrive\\Documents\\NET\\backend_learning_path_tasks\\backend_learning_path_tasks\\BlogCleanArch\\BlogCleanArch.Application\\BlogCleanArch.Application.csproj",
         "projectName": "BlogCleanArch.Application",
-        "projectPath": "C:\\Users\\Yohannes M\\Documents\\C#\\backend_learning_path_tasks\\BlogCleanArch\\BlogCleanArch.Application\\BlogCleanArch.Application.csproj",
-        "packagesPath": "C:\\Users\\Yohannes M\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Yohannes M\\Documents\\C#\\backend_learning_path_tasks\\BlogCleanArch\\BlogCleanArch.Application\\obj\\",
+        "projectPath": "C:\\Users\\yohan\\OneDrive\\Documents\\NET\\backend_learning_path_tasks\\backend_learning_path_tasks\\BlogCleanArch\\BlogCleanArch.Application\\BlogCleanArch.Application.csproj",
+        "packagesPath": "C:\\Users\\yohan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\yohan\\OneDrive\\Documents\\NET\\backend_learning_path_tasks\\backend_learning_path_tasks\\BlogCleanArch\\BlogCleanArch.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Yohannes M\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\yohan\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\Yohannes M\\Documents\\C#\\backend_learning_path_tasks\\BlogCleanArch\\BlogCleanArch.Domain\\BlogCleanArch.Domain.csproj": {
-                "projectPath": "C:\\Users\\Yohannes M\\Documents\\C#\\backend_learning_path_tasks\\BlogCleanArch\\BlogCleanArch.Domain\\BlogCleanArch.Domain.csproj"
+              "C:\\Users\\yohan\\OneDrive\\Documents\\NET\\backend_learning_path_tasks\\backend_learning_path_tasks\\BlogCleanArch\\BlogCleanArch.Domain\\BlogCleanArch.Domain.csproj": {
+                "projectPath": "C:\\Users\\yohan\\OneDrive\\Documents\\NET\\backend_learning_path_tasks\\backend_learning_path_tasks\\BlogCleanArch\\BlogCleanArch.Domain\\BlogCleanArch.Domain.csproj"
               }
             }
           }
@@ -169,24 +165,22 @@
         }
       }
     },
-    "C:\\Users\\Yohannes M\\Documents\\C#\\backend_learning_path_tasks\\BlogCleanArch\\BlogCleanArch.Domain\\BlogCleanArch.Domain.csproj": {
+    "C:\\Users\\yohan\\OneDrive\\Documents\\NET\\backend_learning_path_tasks\\backend_learning_path_tasks\\BlogCleanArch\\BlogCleanArch.Domain\\BlogCleanArch.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Yohannes M\\Documents\\C#\\backend_learning_path_tasks\\BlogCleanArch\\BlogCleanArch.Domain\\BlogCleanArch.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\yohan\\OneDrive\\Documents\\NET\\backend_learning_path_tasks\\backend_learning_path_tasks\\BlogCleanArch\\BlogCleanArch.Domain\\BlogCleanArch.Domain.csproj",
         "projectName": "BlogCleanArch.Domain",
-        "projectPath": "C:\\Users\\Yohannes M\\Documents\\C#\\backend_learning_path_tasks\\BlogCleanArch\\BlogCleanArch.Domain\\BlogCleanArch.Domain.csproj",
-        "packagesPath": "C:\\Users\\Yohannes M\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Yohannes M\\Documents\\C#\\backend_learning_path_tasks\\BlogCleanArch\\BlogCleanArch.Domain\\obj\\",
+        "projectPath": "C:\\Users\\yohan\\OneDrive\\Documents\\NET\\backend_learning_path_tasks\\backend_learning_path_tasks\\BlogCleanArch\\BlogCleanArch.Domain\\BlogCleanArch.Domain.csproj",
+        "packagesPath": "C:\\Users\\yohan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\yohan\\OneDrive\\Documents\\NET\\backend_learning_path_tasks\\backend_learning_path_tasks\\BlogCleanArch\\BlogCleanArch.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Yohannes M\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\yohan\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
